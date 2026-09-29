@@ -1,0 +1,19 @@
+# Target build folder
+target/
+
+# IDE settings
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+.vscode/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
